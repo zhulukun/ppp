@@ -27,6 +27,9 @@ html,body {
 	padding-bottom: 30px;
 	padding-top: 30px;
 }
+.form-control, .input-group {
+    height: 30px;
+}
 .box {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6699FF', endColorstr='#6699FF'); /*  IE */
 	background-image:linear-gradient(bottom, #26a9e1 0%, #26a9e1 100%);
