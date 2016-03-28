@@ -30,6 +30,11 @@ html,body {
 .form-control, .input-group {
     height: 30px;
 }
+.btn-warning {
+    color: #fff;
+    background-color: #456964;
+    border-color: #456964;
+}
 .box {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6699FF', endColorstr='#6699FF'); /*  IE */
 	background-image:linear-gradient(bottom, #26a9e1 0%, #26a9e1 100%);
